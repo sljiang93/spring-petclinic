@@ -22,3 +22,11 @@ https://github.com/sljiang93/spring-petclinic/blob/master/Dockerfile
 https://github.com/sljiang93/spring-petclinic/blob/master/docker-compose.yml
 
 8.
+https://github.com/sljiang93/spring-petclinic/blob/master/src/main/resources/application-mysql.properties
+
+9.
+![Screen Shot 2022-03-10 at 9 11 21 AM](https://user-images.githubusercontent.com/86927390/157681002-2ffe6769-f08b-407b-b976-27a8209ab0e1.png)
+
+10.
+![Screen Shot 2022-03-10 at 9 12 23 AM](https://user-images.githubusercontent.com/86927390/157681044-33193224-2ee6-47b9-a9a5-2ffcb77f700f.png)
+
