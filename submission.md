@@ -14,3 +14,6 @@ https://github.com/sljiang93/spring-petclinic/blob/master/Dockerfile
 
 5.
 ![Screen Shot 2022-03-09 at 11 38 48 PM](https://user-images.githubusercontent.com/86927390/157590695-4c43fd6b-5848-4f8f-8856-9f9c5ad5e03f.png)
+
+6.
+![Screen Shot 2022-03-09 at 11 53 10 PM](https://user-images.githubusercontent.com/86927390/157592227-9d551873-add9-49c5-a159-7e13a3aa7591.png)
